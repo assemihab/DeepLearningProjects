@@ -25,5 +25,4 @@ Here are my deep learning repositories:
    - Language: Python
    - Architecture: Encoder & Decoder, Transformers
 
-Feel free to explore these repositories and check out the code!
 Feel free to explore these repositories and check out the code! Please note that these repositories are actively maintained and may receive updates in the future.
